@@ -1,0 +1,128 @@
+{
+    "ar":{
+        "textHeader":  { 
+                        "text1":"  تجعل مشروع حياتك  ناجحا   ",
+                        "text2":"  تواكب تكنلوجيا العصر  ",
+                        "text3":"  تتواصل مع العالم  ",
+                        "text4":"   بخطوة  ",
+                        "text5":"  سنكون معك  ",
+                        "text6":" بينما تواصل  رحلتك  ",
+                        "text7":"  وتتحرك نحو هدفك  ",
+                        "text8":" خطوة   ",
+                        "text9":"  لكي  ",
+                        "text10":"    "
+        },
+        "textSection":  { 
+                        "text1":"   شعار مجاني مع كل موقع ويب  ",
+                        "text2":"  رفع على سيرفر خاص ودومين خاص وشعادة اعتماد من جوجل لكل موقع  ",
+                        "text3":" برمجيات قوية مع أعلى مستويات الحماية   ",
+                        "text4":"  خصم خاص للشركات الناشئة  ",
+                        "text5":"   خصم ٩٠% للمعلمين . منصة معلم خاصة مع دومين  . ",
+                        "text6":"    ",
+                        "text7":"    ",
+                        "text8":"    ",
+                        "text9":"    ",
+                        "text10":"    "
+        },
+        "TeamHome":  {  "title":"ماذا تحتاج؟ ",
+                        "design":{
+                            "title":"  تصميم ",
+                            "text":" تصميم شعار شركات  بكافة الاحجام و متحركة   "
+                        },
+                        "hr":{
+                            "title":" HR  ",
+                            "text":"   انظمة شركات ويب تشمل جميع بيانات الشركة وادارتها من موظفين وعملاء ومخزون   "
+                        },
+                        "website":{
+                            "title":"   موقع ويب    ",
+                            "text":"  مواقع بيع تشمل ادارة المخزون ومواقع صفحات تعريفية للمتاجر  ومنصات خاصة للمعلمين وغيرها   "
+                        }
+        }
+
+    },
+
+
+    "en":{
+        "textHeader":  { 
+            "text1":"    make your life project successful  ",
+            "text2":"  keep pace with modern technology   ",
+            "text3":"   communicate with the world  ",
+            "text4":"   by Step  ",
+            "text5":"  We will be with you   ",
+            "text6":"  as you continue your journey   ",
+            "text7":"  and move towards your goal  ",
+            "text8":"  STEP  ",
+            "text9":"  To  ",
+            "text10":"    "
+        },
+        "textSection":  { 
+                    "text1":"  Free logo with every website   ",
+                    "text2":"  Uploading to a private server, private domain, and Google accreditation for each site  ",
+                    "text3":"   Powerful software with the highest levels of protection  ",
+                    "text4":"  Special discount for startups  ",
+                    "text5":"  90% discount for teachers. A private teacher platform with a domain.  ",
+                    "text6":"   ",
+                    "text7":"   ",
+                    "text8":"    ",
+                    "text9":"    ",
+                    "text10":"    "
+        },
+        "TeamHome":  { "title":"what do you need ?",
+                    "design":{
+                        "title":"  Design  ",
+                        "text":"  Design an animated logo for companies of all sizes  "
+                    },
+                    "hr":{
+                        "title":" HR   ",
+                        "text":"  Web corporate systems include all company data and management, including employees, customers, and inventory  "
+                    },
+                    "website":{
+                        "title":"  Website  ",
+                        "text":"   Selling sites include inventory management, store introductory pages, special platforms for teachers, and others "
+                    }
+        }
+    },
+
+    "tr":{
+        "textHeader":  { 
+            "text1":"hayat projenizi başarılı kılın",
+            "text2":"Modern teknolojiye ayak uydurun",
+            "text3":"dünyayla iletişim kurun",
+            "text4":" Adıma Göre ",
+            "text5":"Yanınızda olacağız",
+            "text6":"yolculuğunuza devam ederken",
+            "text7":" ve hedefinize doğru ilerleyin ",
+            "text8":" ADIM ",
+            "text9":" Kime ",
+            "text10":"    "
+        },
+
+        "textSection":  { 
+                    "text1":"   En yüksek koruma seviyesine sahip güçlü yazılım   ",
+                    "text2":"  Startup'lara özel indirim  ",
+                    "text3":"   Öğretmenlere %90 indirim. Etki alanına sahip özel öğretmen platformu. ",
+                    "text4":"  Her web sitesinde ücretsiz logo  ",
+                    "text5":"   Her site için özel bir sunucuya, özel alana ve Google akreditasyonuna yükleme ",
+                    "text6":"    ",
+                    "text7":"    ",
+                    "text8":"    ",
+                    "text9":"    ",
+                    "text10":"    "
+        },
+        "TeamHome":  {  "title":"ne istiyorsun ?",
+                    "design":{
+                        "title":"  tasarım  ",
+                        "text":" Her büyüklükteki şirket için animasyonlu bir logo tasarlayın   "
+                    },
+                    "hr":{
+                        "title":" İK   ",
+                        "text":" Web kurumsal sistemleri; çalışanlar, müşteriler ve envanter de dahil olmak üzere tüm şirket verilerini ve yönetimini içerir   "
+                    },
+                    "website":{
+                        "title":" İnternet sitesi   ",
+                        "text":"  Satış siteleri arasında envanter yönetimi, mağaza tanıtım sayfaları, öğretmenler için özel platformlar ve diğerleri yer alır  "
+                    }
+        }
+    }
+}
+

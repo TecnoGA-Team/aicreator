@@ -1,0 +1,10 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/GalleryPage/page": "app/GalleryPage/page.js",
+  "/JobHRPage/page": "app/JobHRPage/page.js",
+  "/AboutPage/page": "app/AboutPage/page.js",
+  "/JobWebsitePage/page": "app/JobWebsitePage/page.js",
+  "/JobDesignPage/page": "app/JobDesignPage/page.js"
+}

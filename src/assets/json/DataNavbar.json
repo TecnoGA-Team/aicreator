@@ -1,0 +1,42 @@
+{
+    "ar":{
+            "navHome":      {"title":"البداية"},
+            "navGallery":   {"title":"المعرض"},
+            "navAbout":     {"title":"من نحن"},
+            "navOurBusiness": {
+                "title":"ماذا تحتاج",
+                "child":{ 
+                    "nav1":{"title":"تصميم"},
+                    "nav2":{"title":"موقع ويب"},
+                    "nav3":{"title":" HR"}
+                }
+            }
+    },
+    "en":{
+            "navHome":  {"title":"Home"},
+            "navGallery": {"title":"Gallery"},
+            "navAbout": {"title":"About Us"},
+            "navOurBusiness": {
+                "title":"what do you need ",
+                "child":{ 
+                    "nav1":{"title":"Designs"},
+                    "nav2":{"title":"Websites"},
+                    "nav3":{"title":" HR"}
+                }
+            }
+    },
+    "tr":{
+            "navHome":  {"title":"Ana Sayfa"},
+            "navGallery": {"title":"Galeri"},
+            "navAbout": {"title":"Hakkımızda"},
+            "navOurBusiness": {
+                "title":"neye ihtiyacınız var ",
+                "child":{
+                    "nav1":{"title":"Tasarımlar"},
+                    "nav2":{"title":"Web siteleri"},
+                    "nav3":{"title":" HR"}
+                }
+            }
+        }
+}
+

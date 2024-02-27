@@ -1,0 +1,5 @@
+/* Start Gallery */
+.gallery .box .image:hover .imgGA {
+    transform: rotate(5deg) scale(1.1);
+}
+  /* End Gallery */

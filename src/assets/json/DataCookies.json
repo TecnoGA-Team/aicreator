@@ -1,0 +1,34 @@
+{
+    "ar":{
+
+        "CookiesBox":  { 
+                        "title":"Cookies",
+                        "text":"نحن نستخدم ملفات تعريف الارتباط. ملفات تعريف الارتباط الضرورية تجعل موقعنا يعمل",
+                        "button1":"سياسة ملفات تعريف الارتباط",
+                        "button2":"موافق",
+                        "box":"ملف تعريف الارتباط هو ملف نصي صغير يتم وضعه على جهازك (على سبيل المثال، الكمبيوتر أو الهاتف الذكي أو أي جهاز إلكتروني آخر) عند استخدام موقعنا الإلكتروني. نحن نستخدم ملفات تعريف الارتباط على موقعنا. يساعدنا ذلك في التعرف عليك وعلى جهازك وتخزين بعض المعلومات حول تفضيلاتك أو إجراءاتك السابقة. على سبيل المثال، قد نقوم بمراقبة عدد المرات التي تزور فيها موقع الويب، والصفحات التي تنتقل إليها، وبيانات حركة المرور، وبيانات الموقع، واسم المجال الأصلي لمزود خدمة الإنترنت الخاص بك. تساعدنا هذه المعلومات في إنشاء ملف تعريف لمستخدمينا، وتحسين تجربة التسوق الخاصة بك، وإدارة الموقع، وتتبع تحركات المستخدمين حول الموقع، ومساعدة المعلنين على إثراء ملفاتهم الشخصية، وتساعدنا في إدارة ملفات تعريف الارتباط، وتساعدنا في تحليل الاتجاهات وتساعدنا على تحسين تصميم الموقع. نستخدم أيضًا ملفات تعريف الارتباط لتذكرك ولإرسال تذكيرات إليك - على سبيل المثال، إذا بدأت التسوق معنا ولكنك لم تتابع عملية الدفع، فقد نقوم بتخزين تلك المعلومات وإرسال تذكيرات إليك لإكمال عملية الشراء"
+        }
+        
+    },
+
+    "en":{
+        "CookiesBox": {
+            "title":"Cookies",
+            "text": "We use cookies. Necessary cookies make our site work",
+            "button1": "Cookie Policy",
+            "button2":"Accept",
+            "box":"A cookie is a small text file which is placed onto your device (e.g., computer, smartphone or other electronic device) when you use our website. We use cookies on our website. These help us recognize you and your device and store some information about your preferences or past actions. For example, we may monitor how many times you visit the website, which pages you go to, traffic data, location data and the originating domain name of your internet service provider. This information helps us to build a profile of our users, improve your shopping experience, administer the site, track users’ movements around the site, help advertisers enrich their profiles, helps manage cookies, helps us analyze trends and helps us improve site design. We also use cookies to remember you and to send you reminders – for example, if you start shopping with us but do not proceed to check out, we may store that information and send you reminders to complete your purchase."
+        }
+    }
+    ,
+    "tr":{
+        "CookiesBox": {
+            "title":"Cookies",
+            "text": "Çerezleri kullanıyoruz. Gerekli çerezler sitemizin çalışmasını sağlar.",
+            "button1":"Çerez politikası",
+            "button2":"Kabul etmek",
+            "box":"Çerez, web sitemizi kullandığınızda cihazınıza (örneğin, bilgisayar, akıllı telefon veya diğer elektronik cihaz) yerleştirilen küçük bir metin dosyasıdır. Web sitemizde çerezler kullanıyoruz. Bunlar sizi ve cihazınızı tanımamıza ve tercihleriniz veya geçmiş eylemleriniz hakkında bazı bilgileri saklamamıza yardımcı olur. Örneğin web sitesini kaç kez ziyaret ettiğinizi, hangi sayfalara gittiğinizi, trafik verilerini, konum verilerini ve internet servis sağlayıcınızın kaynak alan adını izleyebiliriz. Bu bilgiler, kullanıcılarımızın profilini oluşturmamıza, alışveriş deneyiminizi iyileştirmemize, siteyi yönetmemize, kullanıcıların sitedeki hareketlerini takip etmemize, reklamverenlerin profillerini zenginleştirmemize, çerezleri yönetmemize, trendleri analiz etmemize ve site tasarımını geliştirmemize yardımcı olur. Çerezleri ayrıca sizi hatırlamak ve size hatırlatmalar göndermek için de kullanırız; örneğin, bizimle alışverişe başlarsanız ancak alışverişi tamamlamazsanız, bu bilgileri saklayabilir ve satın alma işleminizi tamamlamanız için size hatırlatıcılar gönderebiliriz."
+        }
+    }
+}
+

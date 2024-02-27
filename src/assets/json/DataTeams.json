@@ -1,0 +1,121 @@
+{
+
+    "ar":{
+
+        "DataEntryTeam":  { 
+                        "title":"فريق إدخال البيانات",
+                        "job1":"إدخال البيانات الى قاعدة البيانات  بشكل دوري",
+                        "job2":"تصحيح البيانات قواعديا و املائيا",
+                        "job3":"تعديل البيانات بحيث تتناسب مع قاعدة البيانات",
+                        "text":""
+        },
+        "ProtectionTeam":  { 
+                        "title":"فريق الحماية",
+                        "job1":"مواكبة احدث انظمة الحماية",
+                        "job2":"العمل على تناقل البيانات برمجيا من والى قاعدة البيانات بشكل آمن",
+                        "job3":"التعامل مع السيرفرات ومواقع تخزين البيانات",
+                        "job4":"التعامل برمجيا مع المعاملات البنكية في موقع الويب",
+                        "text":""
+        },
+        "DesignTeam":  { 
+                        "title":"فريق التصميم",
+                        "job1":"تصميم الفيديوهات والرسوم بما يتناسب مع احدث التصاميم بمقاييس عالمية",
+                        "job2":"تصميم الواجهات برمجيا وتصميم مكونات موقع الويب ",
+                        "job3":"باحجام مختلفة و مع اضافة صورةمتحركة ثلاثية الابعاد للشعار logoتصميم",
+                        "text":""
+        },
+        "ProgrammingTeam":  { 
+                        "title":"فريق البرمجة",
+                        "job1":"برمجة الموقع بأحدث برمجيات الويب القوية",
+                        "job2":"عمل هيكلة الموقع وإضافة المكونات الى الموقع",
+                        "job3":"النسخ الاحتياطي لمواقع الويب  و مراقبة  مواقع الويب  بشكل دوري",
+                        "text":""
+        },
+        "ManagementTeam":  { 
+                        "title":"فريق الإدارة",
+                        "job1":"التواصل مع العملاء",
+                        "job2":"التنسيق والإشراف على الفرق",
+                        "job3":"وضع الخطط  والادارة المالية",
+                        "text":""
+        }
+
+    },
+    "en":{
+        "DataEntryTeam": {
+            "title":"Data Entry Team",
+            "job1": "Entering data into the database periodically",
+            "job2": "Correct data grammatically and spelling",
+            "job3":"Modify the data to fit the database",
+            "text":""
+        },
+        "ProtectionTeam": {
+                    "title":"Protection Team",
+                    "job1": "Keeping up with the latest protection systems",
+                    "job2": "Working on transferring data programmatically to and from the database securely",
+                    "job3": "Dealing with servers and data storage sites",
+                    "job4": "Programmatically dealing with banking transactions on the website",
+                    "text":""
+        },
+        "DesignTeam": {
+                    "title":"Design Team",
+                    "job1": "Designing videos and graphics in line with the latest designs with international standards.",
+                    "job2": "Programmatically designing interfaces and designing website components",
+                    "job3": "in different sizes and with the addition of a 3D animated image of the logo design",
+                    "text":""
+        },
+        "ProgrammingTeam": {
+                    "title":"Programming Team",
+                    "job1": "Programming the website with the latest powerful web software",
+                    "job2": "Work on structuring the site and adding components to the site",
+                    "job3":"Backup websites and monitor websites periodically",
+                    "text":""
+        },
+        "ManagementTeam": {
+                    "title":"Management Team",
+                    "job1":"Communicating with customers",
+                    "job2": "Coordination and supervision of teams",
+                    "job3": "Developing plans and financial management",
+                    "text":""
+        }
+    }
+    ,
+    "tr":{
+        "DataEntryTeam": {
+            "title":"Veri Giriş Ekibi",
+            "job1": "Veritabanına periyodik olarak veri girilmesi",
+            "job2": "Verileri dilbilgisi ve yazım açısından düzeltin",
+            "job3":"Veri tabanına uyacak şekilde verileri değiştirin",
+            "text":""
+        },
+        "ProtectionTeam": {
+                    "title":"Koruma Ekibi",
+                    "job1": "En son koruma sistemlerini takip etmek",
+                    "job2": "Veri tabanına ve veri tabanından programlı olarak güvenli bir şekilde veri aktarımı üzerinde çalışılması",
+                    "job3": "Sunucularla ve veri depolama siteleriyle ilgilenmek",
+                    "job4": "Web sitesindeki bankacılık işlemlerinin programlı olarak yürütülmesi",
+                    "text":""
+        },
+        "DesignTeam": {
+                    "title":"Tasarım Ekibi",
+                    "job1": "Uluslararası standartlarda son tasarımlara uygun video ve grafiklerin tasarlanması.",
+                    "job2": "Programlı olarak arayüz tasarlama ve web sitesi bileşenlerini tasarlama",
+                    "job3": "farklı boyutlarda ve logo tasarımına 3 boyutlu animasyonlu görsel eklenmesiyle",
+                    "text":""
+        },
+        "ProgrammingTeam": {
+                    "title":"Programlama Ekibi",
+                    "job1": "Web sitesini en son güçlü web yazılımıyla programlamak",
+                    "job2": "Sitenin yapılandırılması ve siteye bileşen eklenmesi ile ilgili çalışmalar",
+                    "job3":"Web sitelerini periyodik olarak yedekleyin ve web sitelerini izleyin",
+                    "text":""
+        },
+        "ManagementTeam": {
+                    "title":"Yönetim Ekibi",
+                    "job1":"Müşterilerle iletişim kurma",
+                    "job2": "Ekiplerin koordinasyonu ve denetimi",
+                    "job3": "Plan geliştirme ve finansal yönetim",
+                    "text":""
+        }
+    }
+}
+

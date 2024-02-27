@@ -1,0 +1,39 @@
+{
+    "ar":{
+        "DataWe":  { 
+                        "title":"  من نحن   ",
+                        "text1":"  .شركة برمجة   عالمية متخصصة في  الانظمة و قواعد البيانات وتطوير الويب  والتصميم  .   ",
+                        "text2":"  .لدينا افرقة متميزة  .  ",
+                        "text3":"  .نعمل على افضل البرمجيات القوية  .   ",
+                        "text4":"  .نهدف الى تطوير الاعمال وارضاء الزبون .  "
+        },
+        "DataLangugeUse":  { 
+                        "title":" لغات البرمجة والمكتبات المستخدمة  "   
+        }
+    },
+    "en":{
+        "DataWe":  { 
+            "title":"  who are we  ",
+            "text1":".A global programming company specializing in systems, databases, web development and design.",
+            "text2":".We have distinguished teams.",
+            "text3":".We work on the best powerful software.",
+            "text4":".We aim to develop business and satisfy customers."
+        },
+        "DataLangugeUse":  { 
+                    "title":"Programming languages and libraries used"     
+        }
+    },
+    "tr":{
+        "DataWe":  { 
+            "title":" Biz kimiz ",
+            "text1":".Sistemler, veritabanları, web geliştirme ve tasarım konusunda uzmanlaşmış küresel bir programlama şirketi.",
+            "text2":".Seçkin takımlarımız var.",
+            "text3":".En güçlü yazılımlar üzerinde çalışıyoruz.",
+            "text4":".İş geliştirmeyi ve müşterileri memnun etmeyi hedefliyoruz."
+        },
+        "DataLangugeUse":  { 
+                    "title":"Kullanılan programlama dilleri ve kütüphaneleri"     
+        }
+    }
+}
+

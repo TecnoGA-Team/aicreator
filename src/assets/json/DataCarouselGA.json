@@ -1,0 +1,64 @@
+{
+    "ar":{
+        "Carousel1":  { 
+                        "title":"التطوير",
+                        "text":"التطوير الدائم من قبل فريق البرمجة ومواكبة احدث لغات البرمجة"
+        },
+        "Carousel2":  { 
+                        "title":"ادخال البيانات",
+                        "text":"إدخال البيانات من قبل فريق الادخال بشكل دوري"
+        },
+        "Carousel3":  { 
+                        "title":"الحماية",
+                        "text":" وجود ثلاثة انظمة للحماية لا يمكن اختراق الموقع الكترونيا بتاتا "
+        },
+        "Carousel4":  { 
+                        "title":"الصيانة",
+                        "text":"الصيانة الدائمة للموقع وانشاء نسخ احتياطية كل شهر "
+        },
+        "Carousel5":  { 
+                        "title":"تصاميم حديثة ",
+                        "text":"متابعة وتعديل الموقع حسب احدث التصاميم من قبل فريق مختص بالرسم والتصميم"
+        },
+        "Carousel6":  { 
+                        "title":"تصميم الاعلانات",
+                        "text":"لدينا فريق مختص لعمل الفيديوهات الاعلانية وشعارات الشركات وايضا الصور الاعلانية"
+        },
+        "Carousel7":  { 
+                        "title":"احدث اللغات",
+                        "text":"العمل على اقوى واحدث البرامج واللغات"
+        }
+
+    }
+    ,
+    "en":{
+        "Carousel1": {
+            "title":"development",
+            "text":"Continuous development by the programming team and keeping pace with the latest programming languages"
+        },
+        "Carousel2": {
+                    "title":"Data Entry",
+                    "text":"Data entry by the entry team periodically"
+        },
+        "Carousel3": {
+                    "title":"Protection",
+                    "text": "The presence of three protection systems makes it impossible for the website to be hacked electronically at all."
+        },
+        "Carousel4": {
+                    "title":"Maintenance",
+                    "text":"Continuous maintenance of the site and creating backup copies every month"
+        },
+        "Carousel5": {
+                    "title":"Modern Designs",
+                    "text":"Follow up and modify the site according to the latest designs by a team specialized in drawing and design"
+        },
+        "Carousel6": {
+                    "title":"Advertising Design",
+                    "text":"We have a specialized team to create advertising videos, company logos, and also advertising images."
+        },
+        "Carousel7": {
+                    "title":"latest languages",
+                    "text":"Working on the most powerful and latest programs and languages"
+        }
+    }
+}
